@@ -1,3 +1,4 @@
+//varibles
 const hearts = document.getElementsByClassName('tries');
 let newPhrase = {};
 
