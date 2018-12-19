@@ -4,8 +4,8 @@
 /* Variables */
 
 :root {
-  --color-win: rgb(28, 46, 209);
-  --color-lose: rgb(255, 0, 0);
+  --color-win: rgb(154, 164, 255);
+  --color-lose: rgb(241, 91, 91);
   --color-start: #5b85b7;
   --color-neutral: #445069;
   --color-neutral-light: #D2D2D2;
@@ -181,7 +181,7 @@ button {
 }
 
 .start {
-  background-color: #016906;
+  background-color: #ffffff;
 }
 
 .start a {
@@ -204,7 +204,7 @@ button {
 }
 
 .lose {
-  background-color: #000000;
+  background-color: #f05555;
   color: rgb(0, 0, 0);
   text-shadow: 2px 2px 2px #f7a964;
 }
